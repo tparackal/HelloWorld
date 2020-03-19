@@ -1,0 +1,11 @@
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
