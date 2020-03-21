@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tharun Parackal\\Documents\\Tharun (Windows)\\C#\\HelloWorld\\HelloWorld.csproj": {}
+    "/Users/tharunparackal/Documents/GitHub/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tharun Parackal\\Documents\\Tharun (Windows)\\C#\\HelloWorld\\HelloWorld.csproj": {
+    "/Users/tharunparackal/Documents/GitHub/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tharun Parackal\\Documents\\Tharun (Windows)\\C#\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "/Users/tharunparackal/Documents/GitHub/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Tharun Parackal\\Documents\\Tharun (Windows)\\C#\\HelloWorld\\HelloWorld.csproj",
-        "packagesPath": "C:\\Users\\Tharun Parackal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tharun Parackal\\Documents\\Tharun (Windows)\\C#\\HelloWorld\\obj\\",
+        "projectPath": "/Users/tharunparackal/Documents/GitHub/HelloWorld/HelloWorld.csproj",
+        "packagesPath": "/Users/tharunparackal/.nuget/packages/",
+        "outputPath": "/Users/tharunparackal/Documents/GitHub/HelloWorld/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Tharun Parackal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/tharunparackal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }
